@@ -1,5 +1,7 @@
 # Catacomb
 
+Very much alpha/experimental library, not test in prod. Still WIP. Might never finish.
+
 Features:
 - the crypt can encrypt only matching keys
 - the crypt can encrypt keys regardless of nesting level, if a key is nested in an array in another hash
